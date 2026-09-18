@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Giovanna, a Computer Science student based in Brazil (UTC−3), currently transitioning into **Data Engineering** while still building software through college and personal projects.
+I'm Giovanna, a Computer Science student based in Brazil (UTC−3), currently transitioning into data while still building software through college and personal projects.
 
 🔭 Currently exploring **Data Engineering, Databricks, Python, SQL, and data pipelines**
 🌱 Learning more about **Apache Spark, cloud platforms, and modern data engineering practices**
